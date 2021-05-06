@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center" >
+  <img alt="Josh Ellis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshuaellis&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
+</div>
+
+### To do
+- [ ] this readme
 
 <!--
 **joshuaellis/joshuaellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
