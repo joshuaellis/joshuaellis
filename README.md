@@ -1,21 +1,12 @@
-<div align="center" >
-  <img alt="Josh Ellis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshuaellis&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
+<div align="center">
+  <img alt="Josh Ellis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshuaellis&show_icons=false&title_color=3bb7ff&text_color=3bb7ff&bg_color=1a1a1a&border_color=000000" >
 </div>
+
+### Working on
+- [Companion Studio Projects](https://www.companion.studio/) 🦊
+- [`react-spring`](https://github.com/pmndrs/react-spring) :v:
+- [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber) ⚡
+- [`drei`](https://github.com/pmndrs/drei) 🌭
 
 ### To do
 - [ ] this readme
-
-<!--
-**joshuaellis/joshuaellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
